@@ -1,0 +1,11 @@
+=== ETL REPORT ===
+
+📊 ETL Processing Report:
+----------------------------------------------------------------------
+File              Processed  Dups Removed Dups Removed Missing Handled Loaded    
+----------------------------------------------------------------------
+customers.csv     26         1            5                    25       
+products.csv      20         0            4                    20       
+sales.csv         40         2            8                    76       
+----------------------------------------------------------------------
+TOTALS:           86         3            17                   121      

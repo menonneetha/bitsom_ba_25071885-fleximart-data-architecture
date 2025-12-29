@@ -131,4 +131,3 @@ SELECT * FROM order_items LIMIT 3;
 | 1 | C001 | Samsung Galaxy S21 | 1 | 45999.00 | 45999.00 |
 | 2 | C002 | Levis Jeans | 2 | 2999.00 | 5998.00 |
 | 3 | C003 | HP Laptop | 1 | 52999.00 | 52999.00 |
-
