@@ -8,3 +8,6 @@
 
 ** Task 1.3: Business Query Implementation
 * business_queries.sql - Query 1, 2, 3
+
+
+requirements.txt - to document the python dependencies
