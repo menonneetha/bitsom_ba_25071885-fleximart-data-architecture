@@ -2,10 +2,10 @@
 Module 2: Assignment: AI Data Architecture Design and Implementation
 # FlexiMart Data Architecture Project
 
-**Student Name:** Neetha Menon
-**Student ID:** bitsom_ba_25071885
-**Email:** neetha.menon@gmail.com
-**Date:** 27-Dec-2025
+**Student Name:** Neetha Menon  
+**Student ID:** bitsom_ba_25071885  
+**Email:** neetha.menon@gmail.com  
+**Date:** 27-Dec-2025  
 
 ## Project Overview
 
