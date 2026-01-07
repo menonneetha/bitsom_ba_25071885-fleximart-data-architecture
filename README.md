@@ -11,30 +11,39 @@ Module 2: Assignment: AI Data Architecture Design and Implementation
 
 The FlexiMart Data Architecture Project implements a comprehensive analytics solution, featuring MongoDB for operational product catalog management and a MySQL star schema data warehouse for sales analytics. Key deliverables include product data import/queries (Task 2.2), star schema design with fact_sales and dimensions dim_date/dim_product/dim_customer (Task 3.1), data population meeting volume/realism criteria (Task 3.2), and advanced analytical queries demonstrating drill-down, window functions, and customer segmentation (Task 3.3). This architecture enables FlexiMart executives to analyze sales patterns, identify top products/customers, and support data-driven decisions across time, product, and customer dimensions.
 
-## Repository Structure
-├── part1-database-etl/
-│   ├── etl_pipeline.py
-│   ├── schema_documentation.md
-│   ├── business_queries.sql
-│   └── data_quality_report.txt
-├── part2-nosql/
-│   ├── nosql_analysis.md
-│   ├── mongodb_operations.js
-│   └── products_catalog.json
-├── part3-datawarehouse/
-│   ├── star_schema_design.md
-│   ├── warehouse_schema.sql
-│   ├── warehouse_data.sql
-│   └── analytics_queries.sql
-└── README.md
+## Repository Structure  
+├── part1-database-etl/  
+│   ├── etl_pipeline.py  
+│   ├── schema_documentation.md  
+│   ├── business_queries.sql  
+│   └── data_quality_report.txt  
+├── part2-nosql/  
+│   ├── nosql_analysis.md  
+│   ├── mongodb_operations.js  
+│   └── products_catalog.json  
+├── part3-datawarehouse/  
+│   ├── star_schema_design.md  
+│   ├── warehouse_schema.sql  
+│   ├── warehouse_data.sql  
+│   └── analytics_queries.sql  
+└── README.md  
 
 ## Technologies Used
 
-- Python 3.x, pandas, mysql-connector-python
-- MySQL 8.0 / PostgreSQL 14
-- MongoDB 6.0
+- Python 3.x, pandas, mysql-connector-python  
+- MySQL 8.0 / PostgreSQL 14  
+- MongoDB 6.0  
 
 ## Setup Instructions
+- Create folder structure as instructed in your local machine for Github. (MAC) 
+- Install Python as per instructions  
+- Install MYSQL
+- Install MONGODB
+- For part 1, save the raw data and the etl_pipeline.py within the sanme folder, and run in Terminal
+- Create datawarehouses in MY SQL and MONGO DB as per part1 and part 2 tasks respectively.
+- For part 2, the product_catalogue.json file and the mongodb_operations.js should be in the same folder. Run the file in Terminal.
+- Similarly for part 3, all files grouped in the same folder.
+- While running files in Terminal, navigate into the folder before running the respective file.
 
 ### Database Setup
 
